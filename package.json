@@ -1,6 +1,6 @@
 {
   "name": "countdown-timer-react-library-tutorial",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "code along tutorial on how to create a React library exportable as an NPM package",
   "main": "dist/countdown.min.js",
   "scripts": {
